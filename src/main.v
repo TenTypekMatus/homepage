@@ -34,7 +34,7 @@ fn main() {
 }
 
 pub fn (mut app App) index() vweb.Result {
-	title := 'vweb app'
+	title := "Matthew's homepage"
 
 	return $vweb.html()
 }

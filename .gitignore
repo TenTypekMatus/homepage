@@ -1,6 +1,6 @@
 # Binaries for programs and plugins
 main
-hp
+homepage
 *.exe
 *.exe~
 *.so
